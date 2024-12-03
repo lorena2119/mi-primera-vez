@@ -1,8 +1,8 @@
 #VARIABLES
-name = "David Gamboa" #variable String
-age = 24 #numero entero
-heigth = 1.63 #numeros decimales (float)
-trainer = True #datos booleanos
+name = "Lorena Contreras" #variable String
+age = 16 #numero entero
+heigth = 1.65 #numeros decimales (float)
+trainer = False #datos booleanos
 
 #LISTAS
 hobbies = list() #Declaro variable
